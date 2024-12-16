@@ -1,0 +1,12 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #b9b920d0;
+    color: #000000;
+}
+.header {
+    background-color:  #000000;
+    padding: 20px;
+}
